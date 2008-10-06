@@ -1,7 +1,7 @@
-/*
- PureMVC AS3/MultiCore Pipes Utility Unit Tests
- Copyright (c) 2008 Cliff Hall<cliff.hall@puremvc.org>
- Your reuse is governed by the Creative Commons Attribution 3.0 License
+/* 
+ PureMVC Java MultiCore Pipes Utility Unit Tests by Matthieu Mauny <matthieu.mauny@puremvc.org> 
+ PureMVC - Copyright(c) 2006-08 Futurescale, Inc., Some rights reserved. 
+ Your reuse is governed by the Creative Commons Attribution 3.0 License 
  */
 package org.puremvc.java.multicore.utilities.pipes.plumbing;
 
